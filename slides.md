@@ -31,6 +31,7 @@ Version 2017
 * Storing unnecessary data
 * Weak algorithms
 * Password hashing
+* Predictable ids
 
 ---
 
@@ -65,6 +66,7 @@ Version 2017
 * User input directly output to scripts
 * Similar to injection
 * Rely on frameworks!
+* EL inside URLs
 
 ---
 
@@ -91,6 +93,7 @@ Version 2017
 * Keep audit trail
 * Write useful diagnostic logs
 * Monitor those logs!
+* Evidence for authorities
 
 ---
 
